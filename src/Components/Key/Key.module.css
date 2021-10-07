@@ -1,0 +1,19 @@
+.key{
+ border: 1px solid #000;
+ height: 300px;
+ width: 100%;
+ position: relative;
+ /* cursor: pointer; */
+ z-index: 1;
+}
+.flat{
+ background-color: #000;
+ height: 200px;
+ margin: 0 -25px 0 -25px;
+ width: 65%;
+ z-index: 2;
+
+}
+.pressed{
+ background-color: rgb(2, 83, 189);
+}

@@ -1,0 +1,9 @@
+.piano{
+ max-width: 500px;
+ margin: auto;
+ display: flex;
+ justify-content: space-around;
+}
+.instruction{
+ text-align: center;
+}
